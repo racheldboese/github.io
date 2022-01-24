@@ -1,10 +1,10 @@
 function UATSpaceTrans(){
-    location.replace("UATSpace.html")
+    location.replace("/UATSpace.html")
 }
 function indexTrans(){
-    location.replace("index.html")
+    location.replace("/index.html")
 }
 
 function objTrans(){
-    location.replace("objectives.html")
+    location.replace("/objectives.html")
 }

@@ -8,8 +8,8 @@ body {
     /* links to the container class in index.html */
     position: relative;
     /* defines the position of the container relative to the rest of the .html*/
-    width: 900px;
-    /* sets the width of the container to 900 pixels */
+    width: 300px;
+    /* sets the width of the container to 300 pixels */
     font-size: 14px;
     /* sets font size to 14 pixels */
     color: azure;
@@ -20,9 +20,9 @@ body {
 
 .button {
     /* defines styling of the .button class in index.html */
-    size: 100px;
+    size: 150px;
     /* sets .button size to 100 pixels */
-    width: 100px;
+    width: 150px;
     /* sets .button width to 100 pixels */
     height: 20px;
     /* sets .button height to 20 pixels */
@@ -68,3 +68,4 @@ h2 {
     box-shadow: 0 2px 8px 0 black;
     /* adds small drop shadow */
 }
+
